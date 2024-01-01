@@ -1,14 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adnan Abdollah Zaki</h1>
 
 - 🌱 I’m currently learning KMM (Kotlin Multi-Platform)
 - 👯 I'm looking to collaborate with International Companies
-  
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan9011&theme=clean&show_icons=true&count_private=true&locale=en" alt="adnan" />
+- 📫 How to reach me: **adnan9011@gmail.com**
+
+
+## &#x1f4c8; GitHub Stats
+
+<p align="center">
+<a href="https://github.com/adnan9011">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adnan9011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adnan9011&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<a href="https://stackoverflow.com/users/1367344/adnan-abdollah-zaki"><img src="https://stackoverflow.com/users/flair/1367344.png?theme=clean" width="300" height="80" alt="Adnan Abdollah Zaki at Stack Overflow" title="Adnan Abdollah Zaki at Stack Overflow" align="top"></a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
-![adnan abdollah zaki's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan9011&layout=compact&hide_border=false&title_color=0366d6&count_private=true&include_all_commits=true&theme=clean)
-
-<a href="https://stackoverflow.com/users/1367344/adnan-abdollah-zaki"><img src="https://stackoverflow.com/users/flair/1367344.png?theme=clean" width="300" height="80" alt="Adnan Abdollah Zaki at Stack Overflow" title="Adnan Abdollah Zaki at Stack Overflow" align="top"></a>
+<p>
+<a href="https://linkedin.com/in/adnan9011"><img src="https://img.shields.io/badge/-adnan9011-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adnan9011@gmail.com"><img src="https://img.shields.io/badge/-adnan9011@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
