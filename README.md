@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adnan9011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adnan9011&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://stackoverflow.com/users/1367344/adnan-abdollah-zaki"><img src="https://stackoverflow.com/users/flair/1367344.png?theme=clean" width="200" height="65" alt="Adnan Abdollah Zaki at Stack Overflow" title="Adnan Abdollah Zaki at Stack Overflow" align="top"></a>
+<a href="https://stackoverflow.com/users/1367344/adnan-abdollah-zaki"><img src="https://stackoverflow.com/users/flair/1367344.png?theme=clean" width="200" height="53" alt="Adnan Abdollah Zaki at Stack Overflow" title="Adnan Abdollah Zaki at Stack Overflow" align="top"></a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
