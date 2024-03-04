@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adnan Abdollah Zaki</h1>
+<h1 align="center">Hi 👋, I'm Adnan Zaki</h1>
 
 - 🌱 I’m currently learning KMP (Kotlin Multi-Platform)
 - 👯 I'm looking to collaborate with International Companies
